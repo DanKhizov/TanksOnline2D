@@ -1,0 +1,16 @@
+{
+    "name": "socketio-2d",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon ./index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "nodemon": "^1.19.1",
+        "shortid": "^2.2.14",
+        "socket.io": "^2.2.0"
+    }
+}
