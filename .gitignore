@@ -1,0 +1,6 @@
+# Client
+client/Build
+client/.vs
+
+# Server
+server/node_modules
